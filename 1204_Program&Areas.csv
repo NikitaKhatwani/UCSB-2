@@ -1,0 +1,26 @@
+Building_Name,CAAN_Number,Building Categorization Notes,Building_Area (GSM),Latitude,Longitude,Building_Area (GSF)
+Davidson Library,8525,Academic,38082.99996,34.41365999,-119.8455396,409922
+Santa Catalina Res Hall,8860,Residential,23327.95334,34.4180653,-119.8681338,251100
+University Center,8558,Auxiliary,14775.29948,34.41179794,-119.8477989,159040
+Humanities And Soc Sci Bldg,8515,Academic,14357.88612,,,154547
+Broida Hall,8572,Research Laboratory,13969.1798,,,150363
+Engineering II,8503,Research Laboratory,13485.34077,,,145155
+Phelps Hall,8560,Academic,12531.96977,,,134893
+South Hall,8528,Academic,12232.35747,,,131668
+Biological Sciences II,8571,Research Laboratory,12018.30887,,,129364
+Ellison Hall,8563,Academic,10604.3246,,,114144
+Elings Hall,8266,Research Laboratory,10384.14439,,,111774
+Harold Frank Hall,8556,Research Laboratory,9296.528504,,,100067
+Chemistry,8557,Research Laboratory,9225.086066,,,99298
+Interactive Learning Pavilion,8506,Academic,8825.7888,,,95000
+Education Building,8275,Academic,8722.945135,,,93893
+Physical Sciences North,8657,Research Laboratory,8669.432984,,,93317
+Social Sciences & Media Stds,8276,Academic,8618.522118,,,92769
+Engineering Science,8225,Research Laboratory,8171.472689,,,87957
+Bioengineering Building,8512,Research Laboratory,7949.341521,,,85566
+San Miguel Residence Hall,8553,Residential,7935.220259,,,85414
+San Nicolas Residence Hall,8561,Residential,7892.113248,,,84950
+Santa Rosa Residence Hall,8527,Residential,7849.842365,,,84495
+Total Academic,,,128752.0935,,,1385876
+Total Reseach,,,93168.8356,,,1002861
+Total Residential ,,,47005.12922,,,505959
